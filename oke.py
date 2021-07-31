@@ -83,7 +83,7 @@ def clear():
 		os.system("cls")
 	else:os.system("clear")
 ##### GO OUT #####
-def go out():
+def keluar():
     print ( ' *! Go out')
     os.sys.exit()
 ##### ROAD #####

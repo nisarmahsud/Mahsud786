@@ -143,7 +143,7 @@ def login():
                 pip.close()
                 komen()
         except AttributeError:
-                print '*! Cookie yang Salah'1
+                print'*! Cookie yang Salah'1
                 time.sleep(3)
                 login()
         except UnboundLocalError:
